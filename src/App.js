@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          El Mistol Mueblería con React
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.elmistolmuebleria.com.ar"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lucila Rodriguez Alfaro - Coderhouse React.js 19785
         </a>
       </header>
     </div>
